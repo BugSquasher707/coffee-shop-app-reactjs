@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coffee-shop-app-reactjs/static/css/main.53f266af.chunk.css",
+    "main.js": "/coffee-shop-app-reactjs/static/js/main.9de73175.chunk.js",
+    "main.js.map": "/coffee-shop-app-reactjs/static/js/main.9de73175.chunk.js.map",
+    "runtime-main.js": "/coffee-shop-app-reactjs/static/js/runtime-main.dcb0b668.js",
+    "runtime-main.js.map": "/coffee-shop-app-reactjs/static/js/runtime-main.dcb0b668.js.map",
+    "static/css/2.fe79023c.chunk.css": "/coffee-shop-app-reactjs/static/css/2.fe79023c.chunk.css",
+    "static/js/2.9a655b35.chunk.js": "/coffee-shop-app-reactjs/static/js/2.9a655b35.chunk.js",
+    "static/js/2.9a655b35.chunk.js.map": "/coffee-shop-app-reactjs/static/js/2.9a655b35.chunk.js.map",
+    "index.html": "/coffee-shop-app-reactjs/index.html",
+    "static/css/2.fe79023c.chunk.css.map": "/coffee-shop-app-reactjs/static/css/2.fe79023c.chunk.css.map",
+    "static/css/main.53f266af.chunk.css.map": "/coffee-shop-app-reactjs/static/css/main.53f266af.chunk.css.map",
+    "static/js/2.9a655b35.chunk.js.LICENSE.txt": "/coffee-shop-app-reactjs/static/js/2.9a655b35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb0b668.js",
+    "static/css/2.fe79023c.chunk.css",
+    "static/js/2.9a655b35.chunk.js",
+    "static/css/main.53f266af.chunk.css",
+    "static/js/main.9de73175.chunk.js"
+  ]
+}
